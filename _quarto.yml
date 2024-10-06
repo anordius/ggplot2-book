@@ -74,5 +74,5 @@ format:
     include-in-header: "ga_script.html"
     callout-appearance: simple
 
-editor: visual
+editor: source
 
